@@ -14,4 +14,4 @@ http://localhost:9001/swagger-ui.html#
    5. Append your database name, username and password in the ***application.properties*** file.<br>
 4. It's done! Go ahead and run the application.   
          
-"check"
+"check" "fix" 
