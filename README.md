@@ -13,5 +13,3 @@ http://localhost:9001/swagger-ui.html#
    4. Execute the ***Schemas.sql*** file in the created database.<br>
    5. Append your database name, username and password in the ***application.properties*** file.<br>
 4. It's done! Go ahead and run the application.   
-         
-"check" "fix" 
